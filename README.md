@@ -17,15 +17,15 @@ Food Delivery Platform API</h1>
 * ![Java](https://img.shields.io/badge/Language-Java%208%20or%20higher-yellow)
 >### Requirements
   * IntelliJIDEA
-  * ServerPort: 8080 (use: 16.16.58.27:8080)
+  * ServerPort: 8080 (use: 13.235.49.100:8080)
   * Java version: 17
   * Everything is present in the pom.xml
   * AWS(EC2)
 >### Steps to run the Project
 * Download the source code and import in intellijIDEA.
-*  Go to [http://16.16.58.27:8080/]
+*  Go to [http://13.235.49.100:8080/]
 * Put specific end_points besides the port accordingly to run the project to access and modify the data or *Click on the link which is integrated with swagger and use it 
-[http://16.16.58.27:8080/swagger-ui/index.html#/]
+[http://13.235.49.100:8080/swagger-ui/index.html#/]
 
 >## Dependencies
  ### Validation
